@@ -1,5 +1,9 @@
 /* Geral */
 
+html {
+  scroll-behavior: smooth;
+}
+
 a {
   color: rgba(255,255,255,.5);
 }
